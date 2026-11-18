@@ -1,0 +1,294 @@
+Technologie - ZK 135 W01
+
+
+1. Uvedená základní značka svaru
+označuje:
+
+<img13>
+
+A) "Y' - svar
+B) "V' - svar
+C) "U' - svar
+
+
+
+2. Co je příčinou vzniku krápníků v kořeni svaru?
+
+A) Malá postupová rychlost nebo velká kořenová
+mezera
+B) Velká postupová rychlost svařování
+C) Malá kořenová mezera
+
+
+
+3. Jaká je teplota tavení čistého železa?
+
+A) 1800 °
+B) 1540 ℃
+C) 910 ℃
+
+
+
+4. Jak se označuje zkouška rázem v ohybu je-li vrub
+proveden ve tvaru písmene V ?
+
+A) KCV
+B) HV
+C) Rv
+
+
+
+5. Uvedené označení svaru určuje,
+že se jedná o:
+
+<img4>
+
+A) "V" svar plochý s vydrážkováním kořene svaru
+B) "V" svar převýšený s plochým podložením svar
+C) "V' svar plochý s přivařenou podložkou
+
+
+
+6. Uvedené umístění základní
+značky svaru na praporku
+odkazové čáry určuje,
+že je svar proveden:
+
+<img14>
+
+A) Z opačné strany, než kde je odkazová čára
+B) Ze strany, na které je odkazová čára
+C) Z libovolné strany
+
+
+
+7. Jakou funkci má kontaktní špička?
+A) Zajistit přechod svařovacího proudu do elektrody
+B) Zajistit vířivé proudění ochranného plynu z
+hubice
+C) Zajistit dokonalejší očištění drátu
+
+
+
+8. Co znamenají v označení ZK 135 W01 písmena ZK?
+
+A) Základní kurz svařování
+B) Zaškolení svářečského dělníka
+C) Úřední kurz svářeče
+
+
+
+9. Označení oceli pro tlakové nádoby dle ČSN EN
+10027-1 je:
+
+A) L
+B) G
+C) P
+
+
+
+10. Označení oceli pro výztuž do betonu dle ČSN EN
+10027-1 je:
+
+A) L
+B) B
+c) S
+
+
+
+11. Uvedená základní značka svaru
+označuje svar:
+
+<img15>
+
+A) Lemový
+B) Koutový
+C) Oblý
+
+
+
+12. Co je to foukání elektrického oblouku?
+
+A) Vznik elektromagnetického pole, které vytlačuje
+elektrický oblouk z osy svařovacího drátu
+B) Dynamický účinek kouře, který se vytvoří při
+spalování vzduchu
+C) Proud vzduchu, který působí nepříznivě na
+polohu elektrického oblouku
+
+
+
+
+13. Koutový svar v poloze
+vodorovné shora (do úžlabí)
+se označuje dle ČSN EN 287-1
+resp. dle ČSN EN ISO 9647:
+
+<img1>
+
+A) FW -PA
+B) FW - PD
+C) BW - PC
+
+
+
+14. Podle ČSN patři nelegované oceli do třídy oceli:
+
+A) 10, 11, 12
+B) 13, 14, 15
+C) 16, 17
+
+
+
+15. Jaká je indikace průtoku ochranného plynu CO2?
+
+A) Průtokoměrem v litrech za minutu
+B) Tlakoměrem v MPa
+C) Průtokoměrem v litrech za hodinu
+
+
+
+16. Co je příčinou vzniku nadměrného převýšení
+povrchu svaru?
+
+A) Natavení velkého množství přídavného materiálu
+při malé postupové rychlosti
+B) Malý průměr přídavného drátu
+C) Velká postupová rychlost svařování
+
+
+
+17. Kde se musí umístit ohřívač plynu CO2?
+
+A) Před vstupem CO2 do redukčního ventilu
+B) Před výstupem CO2 z redukčního ventilu
+C) Před vstupem CO2 do průtokoměru
+
+
+
+18. Jaká je příčina vzniku studených spojů?
+
+A) Nedostatečné natavení svarových ploch
+B) Velký průměr přídavného materiálu
+C) Malá postupová rychlost svařování
+
+
+
+19. Který svařovací zdroj je zdrojem usměrněného
+střídavého napětí o vysoké frekvenci?
+
+A) Usměrňovač
+B) Střídač
+C) Transformátor
+
+
+
+20. Čím je způsobeno přehřívání držáku elektrody nebo
+se hořáku?
+
+A) Příliš velikým napětím naprázdno
+B) Příliš malým svařovacím proudem
+C) Příliš velikým svařovacím proudem
+
+
+
+21. První doplňková značka podle ČSN za tečkou u oceli
+11 373.1 označuje:
+
+A) Druh tepelného zpracování
+B) Procento uhlíku v oceli
+C) Pořadovou číslici
+
+
+
+22. Co je rozhodující podmínkou pro volbu svařovacího
+drátu pro svařování ocelí v ochranné atmosféře
+plyn?
+
+A) Tvrdost svařovacího drátu musí být stejná jako
+tvrdost základního materiálu
+B) Pevnost svarového kovu je přibližně stejná nebo
+o málo vyšší, než je pevnost základního
+materiálu
+C) Houževnatost svařovacího drátu je menší než
+houževnatost základního materiálu
+
+
+
+23. Jaký vliv má "netečný" (inertní) ochranný plyn při
+svařování v ochranné atmosféře?
+
+A) Ovlivňuje kvalitu svarového spoje tím, ze
+zhoršuje zapalování oblouku a hoření oblouku
+B) Svou netečností ohrožuje zdraví svářeče
+C) Tvoří dokonalou ochranu svarové lázně a je vůči
+ní chemicky netečný
+
+
+
+24. Vizuální prohlídka se provádí za účelem zjištění
+přítomnosti:
+
+A) Legujících prvků
+B) Vnitřních vad
+C) Povrchových vad
+
+
+
+25. Tupý svar na trubce v poloze
+vodorovné se označuje dle
+ČSN EN 287-1 resp. dle
+ČSN EN ISO 6947:
+
+<img16>
+
+A) FW-PA
+B) BW - PC
+C) FW-PF
+
+
+
+26. Jaký vliv na tvar svarové housenky má zvýšení
+svařovacího proudu?
+
+A) Nemá žádný vliv
+8) Zmenšuje se hloubka závaru i převýšení a šířka
+housenky
+C) Roste hloubka závaru, mírně vzrůstá převýšení a
+šířka housenky
+
+
+
+27. Napětí naprázdno je v porovnání s pracovním
+napětím vždy:
+
+A) Nižší
+B) Vyšší
+C) Stejné
+
+
+
+28. Jak se označují stupně jakosti svarových spojů ocelí
+zhotovených svařování podle ČSN EN ISO 5 817?
+
+A) 1, 2, 3
+B) D, Č, B
+C) E, F, G
+
+
+
+29. Která zkouška se zařazuje mezi zkoušky
+destruktivní?
+
+A) Tahem
+B) Prozářením
+C) Kapilární
+
+
+
+30. Jaké druhy přenosu kovu v oblouku se uplatňují při
+svařování v CO?
+
+A) Zkratový
+B) Rychlý přenos kovu závislý na nepřímé polaritě
+C) Pomalý přenos kovu způsobený přímou polaritou.

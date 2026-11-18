@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Zkouškovník – příprava ke zkouškám",
+  "short_name": "Zkouškovník",
+  "description": "Offline příprava ke svářečským a řidičským zkouškám.",
+  "lang": "cs-CZ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101214",
+  "theme_color": "#111315",
+  "icons": [
+    { "src": "./assets/icon-only.png", "sizes": "any", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
